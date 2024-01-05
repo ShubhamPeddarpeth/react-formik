@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.App {
+    text-align: center;
+    margin: 20px;
+}
+
+h2,
+h3 {
+    color: #333;
+}
+
+button {
+    margin-top: 10px;
+}
+
+button {
+    margin-right: 10px;
+    /* Add margin to create space between buttons */
+}
+
+.jumbotron {
+    background-color: #eee;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
